@@ -1,0 +1,30 @@
+#gallery{
+    padding: 200px;
+}
+
+
+.photo img {
+    max-width: 500px;
+    height: auto;
+    display: block;
+	margin: auto;
+}
+#uploadButton{
+    display: flex;
+    margin-left: 595px;
+}
+#upfile{
+    display: flex;
+    margin-left: 600px;
+}
+textarea{
+    display: block;
+    margin: auto;
+}
+button{
+    display: block;
+    margin: auto;
+}
+.comment{
+    text-align: center;
+}
